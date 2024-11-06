@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "drammos.jfif"
+  avatar           : "drammos.jpeg"
   name             : "Dimitris Rammos"
   pronouns         : # example: "she/her"  
   bio              : "Software Engineer"
