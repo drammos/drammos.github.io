@@ -18,7 +18,7 @@ Education
 
 Professional experience
 ======
-* **Entersoft**  
+* **RetinAI**  
   *Software Engineer*  
   Bern, Switzerland  
   February 2025 - Present
