@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! I'm Dimitris Rammos, I am a Software Engineer at RetinAI, specializing in backend development with a strong focus on Rust. I design and build high-performance, scalable services using **Rust** and the **Axum framework**, with an emphasis on clean architecture and reliability.
 
-I hold a Bachelor’s degree in [Informatics and Telecommunications(https://www.di.uoa.gr/en) from the [National and Kapodistrian University of Athens](https://en.uoa.gr/), where I built a solid foundation in computer science and software engineering principles. My passion for technology drives me to constantly explore and deepen my knowledge in various programming languages and software development techniques.
+I hold a Bachelor’s degree in [Informatics and Telecommunications](https://www.di.uoa.gr/en) from the [National and Kapodistrian University of Athens](https://en.uoa.gr/), where I built a solid foundation in computer science and software engineering principles. My passion for technology drives me to constantly explore and deepen my knowledge in various programming languages and software development techniques.
 
 With experience in **Rust**, **C#**, **Java**, and **C/C++**, I enjoy working on backend development and creating efficient, scalable solutions. My skill set includes using a variety of development tools and frameworks to build robust applications and collaborate effectively within **Agile** teams. I’m fascinated by emerging technologies, and my goal is to contribute to impactful projects that push the boundaries of what’s possible in **software engineering**.
 
