@@ -19,6 +19,21 @@ Education
 Professional experience
 ======
 * **Entersoft**  
+  *Software Engineer*  
+  Bern, Switzerland  
+  February 2025 - Present
+  
+    I work as a Software Engineer at RetinAI, developing backend services in **Rust** using the Axum framework.
+    I also build modern web applications with **Datastar and Askama templates**, and have previously worked with **HTMX**.
+    My tech stack includes **PostgreSQL, Redis, Docker, and REST APIs**.
+    The project focuses on AI-powered ophthalmology applications for medical image analysis and eye health data management.
+
+  - **Rust**, **Axum**
+  - **Datastar**, **HTMX**
+  - **Docker**, **Redis**, **PostgresDB**
+  - **Git**
+    
+* **Entersoft**  
   *Junior Software Engineer*  
   Athens, Greece  
   September 2023 - October 2024 
@@ -80,6 +95,7 @@ Skills
 * **JavaScript**, **React**
 * **C**, **C++**, **Python**
 * **HTML**, **CSS**
+* **HTMX**, **DATASTAR**
 * **GIT**, **Agile**
 * **MySQL**, **Redis**, **MongoDB**, **PostgresDB**, **SQL Server**, **Toad** 
 * **Grafana**, **Prometheus**
